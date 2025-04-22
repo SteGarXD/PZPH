@@ -1,0 +1,11 @@
+__pycache__/
+*.csv
+*.tsv
+*.json
+*.log
+*.tmp
+catboost_info/
+*.pkl
+realty_data.csv
+.venv/
+.idea
